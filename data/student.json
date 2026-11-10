@@ -1,0 +1,231 @@
+{
+  "profile": {
+    "name": "Kalix",
+    "email": "kalix.morgan@example.com",
+    "goal": "Software Developer",
+    "skills": [
+      "JavaScript",
+      "Problem solving",
+      "HTML & CSS"
+    ]
+  },
+  "courses": [
+    {
+      "id": "java",
+      "title": "Java Programming",
+      "category": "Programming",
+      "description": "Build a strong foundation in Java, object-oriented programming, and application development.",
+      "level": "Beginner",
+      "duration": "8 weeks",
+      "color": "violet",
+      "icon": "code",
+      "lessons": [
+        "Java fundamentals",
+        "Variables & control flow",
+        "Object-oriented programming",
+        "Collections & generics",
+        "Build a Java application"
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python Programming",
+      "category": "Programming",
+      "description": "Learn Python from the ground up and use it to solve real-world problems.",
+      "level": "Beginner",
+      "duration": "6 weeks",
+      "color": "blue",
+      "icon": "terminal",
+      "lessons": [
+        "Python essentials",
+        "Working with data",
+        "Functions & modules",
+        "Files & APIs",
+        "Build a Python project"
+      ]
+    },
+    {
+      "id": "web",
+      "title": "Web Development",
+      "category": "Development",
+      "description": "Create responsive, accessible websites with modern HTML, CSS, and JavaScript.",
+      "level": "Intermediate",
+      "duration": "10 weeks",
+      "color": "orange",
+      "icon": "globe",
+      "lessons": [
+        "HTML foundations",
+        "Modern CSS",
+        "JavaScript essentials",
+        "React fundamentals",
+        "Launch your portfolio"
+      ]
+    },
+    {
+      "id": "design",
+      "title": "UI/UX Design",
+      "category": "Design",
+      "description": "Turn user needs into intuitive interfaces, thoughtful prototypes, and polished designs.",
+      "level": "Beginner",
+      "duration": "5 weeks",
+      "color": "pink",
+      "icon": "pen",
+      "lessons": [
+        "Design thinking",
+        "User research",
+        "Wireframing",
+        "Prototyping & testing",
+        "Present a case study"
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Data Analytics",
+      "category": "Data",
+      "description": "Explore, analyze, and visualize data to uncover insights and make better decisions.",
+      "level": "Intermediate",
+      "duration": "8 weeks",
+      "color": "green",
+      "icon": "chart",
+      "lessons": [
+        "Analytics foundations",
+        "Spreadsheets & SQL",
+        "Data cleaning",
+        "Visualization",
+        "Build an insights dashboard"
+      ]
+    },
+    {
+      "id": "cloud",
+      "title": "Cloud Computing",
+      "category": "Technology",
+      "description": "Understand cloud fundamentals, core infrastructure, and how to deploy applications.",
+      "level": "Intermediate",
+      "duration": "7 weeks",
+      "color": "cyan",
+      "icon": "cloud",
+      "lessons": [
+        "Cloud concepts",
+        "Compute & storage",
+        "Networking basics",
+        "Security & identity",
+        "Deploy a cloud project"
+      ]
+    }
+  ],
+  "enrolled": [
+    "web",
+    "python",
+    "design",
+    "java"
+  ],
+  "completed": {
+    "web": [
+      "html-basics",
+      "css-fundamentals",
+      "javascript-basics",
+      "dom-manipulation",
+      "responsive-design"
+    ],
+    "python": [
+      "python-intro",
+      "python-variables",
+      "python-functions"
+    ],
+    "design": [
+      "ui-ux-intro"
+    ],
+    "java": [
+      "what-is-java",
+      "java-variables"
+    ]
+  },
+  "activity": [
+    {
+      "courseId": "java",
+      "text": "Completed Variables & control flow",
+      "when": "Just now"
+    },
+    {
+      "courseId": "java",
+      "text": "Completed Java fundamentals",
+      "when": "Just now"
+    },
+    {
+      "courseId": "web",
+      "text": "Completed Launch your portfolio",
+      "when": "Just now"
+    },
+    {
+      "courseId": "web",
+      "text": "Completed React fundamentals",
+      "when": "Just now"
+    },
+    {
+      "courseId": "web",
+      "text": "Completed JavaScript essentials",
+      "when": "Just now"
+    },
+    {
+      "courseId": "web",
+      "text": "Completed Modern CSS",
+      "when": "Today"
+    },
+    {
+      "courseId": "python",
+      "text": "Completed Functions & modules",
+      "when": "Yesterday"
+    }
+  ],
+  "contentVersion": 1,
+  "lastLessons": {
+    "java": "first-java-program",
+    "python": "python-loops",
+    "web": "responsive-design",
+    "design": "ui-ux-intro",
+    "data": "analytics-intro",
+    "cloud": "cloud-intro"
+  },
+  "recentLessons": [
+    {
+      "courseId": "python",
+      "lessonId": "python-loops",
+      "when": "Just now"
+    },
+    {
+      "courseId": "python",
+      "lessonId": "python-conditionals",
+      "when": "Just now"
+    },
+    {
+      "courseId": "python",
+      "lessonId": "python-operators",
+      "when": "Just now"
+    },
+    {
+      "courseId": "java",
+      "lessonId": "first-java-program",
+      "when": "Just now"
+    },
+    {
+      "courseId": "java",
+      "lessonId": "java-install",
+      "when": "Just now"
+    },
+    {
+      "courseId": "java",
+      "lessonId": "java-abstraction",
+      "when": "Just now"
+    },
+    {
+      "courseId": "java",
+      "lessonId": "java-inheritance",
+      "when": "Just now"
+    },
+    {
+      "courseId": "java",
+      "lessonId": "java-operators",
+      "when": "Just now"
+    }
+  ]
+}
